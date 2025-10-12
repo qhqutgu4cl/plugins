@@ -1,3 +1,5 @@
 alice: { private: true }
 bob:   { private: false }
 carl:  {}
+
+# Update: 2025-10-12
